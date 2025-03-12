@@ -1,0 +1,1 @@
+# Tibame_GAD245_Practice_GCP-BigQuery-python-code_0312
